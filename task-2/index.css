@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 100%;
+  min-height: 100vh;
+    background-image: url(./images/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    background-size: 100%;
+
+}
+section{
+    width: 80%;
+    min-height: 80vh;
+    height: 80%;
+    background-color: aqua;
+    margin: auto;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    display: flex;
+    justify-content: center;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2%;
+}
+.rghit{
+    width: 60%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 0% 2% 2% 0%;
+}
+.left{
+    width: 40%;
+    height: 100%;
+    background-color:#13112b;
+    border-radius: 2% 0% 0% 2%;
+    color: #fff;
+}
+#lfS1{
+    display: flex;
+
+}
+#lfS1 h1{
+   margin: 0.7rem;
+}
+.left button {
+    color: #fff;
+    width: 100%;
+    padding: 4%;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    font-size: 16px;
+}
+.rghit h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.rghit p {
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+}
+.pe {
+    width: 95%;
+    height: 6vh;
+    
+}
+form {
+    margin-top: 2rem;
+}
+#sub{
+    color: #fff;
+    width: 100%;
+    padding: 4%;
+    border: 1px solid #4f79ff;
+    border-radius: 0.3rem;
+    background-color: #4f79ff;
+    font-size: 20px;
+
+}

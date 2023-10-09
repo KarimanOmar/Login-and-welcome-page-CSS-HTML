@@ -1,0 +1,54 @@
+
+.allContant{
+    padding: 2%;
+}
+.child1 {
+    height: 30%;
+    text-align: center;
+
+}
+.child1 img{
+    width: 18%;
+
+    border-radius: 50%;
+}
+.child2 {
+    
+    text-align: center;
+}
+.child2 p {
+    padding-left: 37%;
+    padding-right: 37%;
+   
+}
+
+.child3 {
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+
+}
+.child3 div {
+    width: 32.7%;
+    height: 11rem;
+    text-align: center;
+    background-color: #cab5aa;
+}
+.child3 h3{
+    margin: 0.6rem;
+}
+.child3 p  {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:light;
+    font-size: 1.03rem;
+}
+#p1{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+#p2{
+    margin: 0.6rem;
+}
